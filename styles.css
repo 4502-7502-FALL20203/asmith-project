@@ -55,3 +55,78 @@ body {
 p {
     background-color: #FFC0CB; 
 }
+
+
+#seven-gospel-albums h1 {
+    font-family: 'Arial', sans-serif;
+    font-size: 36px;
+    font-weight: bold;
+    color: #800080;
+}
+
+#seven-gospel-albums h2 {
+    font-family: 'Times New Romans', sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    color: #666;
+}
+
+#seven-gospel-albums p {
+    font-family: 'Georgia', sans-serif;
+    font-size: 16px;
+    color: #333;
+}
+
+#seven-gospel-albums img { 
+    max-width: 300px;
+    height: 300px;
+}
+
+#seven-gospel-albums body {
+    background-color: white; 
+}
+
+nav {
+    background-color: white;
+    color: hotpink; 
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul {
+    background-color: darkgray ; 
+    display: inline-block;
+    padding: 15px 20px; 
+    border-radius: 30px; 
+    margin: 5px;
+    font-weight: bold
+}
+
+nav ul {
+    text-decoration: none;
+    color: white;
+}
+
+
+nav ul:hover {
+    background-color: hotpink;
+    cursor: pointer; 
+}
+
+#seven-gospel-albums p {
+    background-color: #D8BFD8;
+    color: black;
+    text-align: center;
+    padding: 10px;
+}
+
+
+#seven-gospel-albums @media screen and (max-width: 555px) {
+}
+
+#seven-gospel-albums @media screen and (max-width: 800px) {
+}
