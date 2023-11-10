@@ -143,31 +143,4 @@ nav ul:hover {
     height: 350;
 }
 
-#photogallery h1 {
-    font-family: 'Arial', sans-serif;
-    font-size: 36px;
-    font-weight: bold;
-    color: #800080;
-}
 
-#photogallery h2 {
-    font-family: 'Times New Romans', sans-serif;
-    font-size: 24px;
-    font-weight: bold;
-    color: #666;
-}
-
-#photogallery p {
-    font-family: 'Georgia', sans-serif;
-    font-size: 16px;
-    color: #333;
-}
-
-#photogallery img { 
-    max-width: 300px;
-    height: 300px;
-}
-
-#photogallery body {
-    background-color: white; 
-}
